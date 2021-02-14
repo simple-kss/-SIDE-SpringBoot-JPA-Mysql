@@ -5,8 +5,7 @@
 
 https://dev.mysql.com/downloads/workbench/
 
-- Strat Spring boot 
-
+- Strat Spring boot  
 https://start.spring.io/
   - check point
     1. Check Gradlew Project
